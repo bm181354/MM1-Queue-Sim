@@ -1,0 +1,75 @@
+MM1
+Time: 11.9227214348: Packet 0 is arriving in the System
+Time : 11.9227214348: Packet 0 is about to be service
+Time: 13.9809940757: Packet 0 is done with the service 
+Time: 15.2933962616: Packet 1 is arriving in the System
+Time : 15.2933962616: Packet 1 is about to be service
+Time: 23.3077330797: Packet 2 is arriving in the System
+Time: 25.4619637455: Packet 1 is done with the service 
+Time : 25.4619637455: Packet 2 is about to be service
+Time: 28.8087084375: Packet 3 is arriving in the System
+Time: 40.355131175: Packet 4 is arriving in the System
+Time: 46.9123331091: Packet 5 is arriving in the System
+Time: 51.8900701311: Packet 6 is arriving in the System
+Time: 56.0934926337: Packet 7 is arriving in the System
+Time: 57.069820296: Packet 2 is done with the service 
+Time : 57.069820296: Packet 3 is about to be service
+Time: 61.6879977104: Packet 3 is done with the service 
+Time : 61.6879977104: Packet 4 is about to be service
+Time: 62.1802601043: Packet 4 is done with the service 
+Time : 62.1802601043: Packet 5 is about to be service
+Time: 66.240830906: Packet 5 is done with the service 
+Time : 66.240830906: Packet 6 is about to be service
+Time: 69.1516916038: Packet 8 is arriving in the System
+Time: 71.1666342099: Packet 9 is arriving in the System
+Time: 73.0958304682: Packet 10 is arriving in the System
+Time: 76.955976826: Packet 6 is done with the service 
+Time : 76.955976826: Packet 7 is about to be service
+Time: 80.6791188615: Packet 11 is arriving in the System
+Time: 83.0273260041: Packet 7 is done with the service 
+Time : 83.0273260041: Packet 8 is about to be service
+Time: 90.7412994742: Packet 12 is arriving in the System
+Time: 98.1740388198: Packet 8 is done with the service 
+Time : 98.1740388198: Packet 9 is about to be service
+Time: 103.631354507: Packet 13 is arriving in the System
+Time: 105.727929827: Packet 9 is done with the service 
+Time : 105.727929827: Packet 10 is about to be service
+Time: 108.848116382: Packet 10 is done with the service 
+Time : 108.848116382: Packet 11 is about to be service
+Time: 112.4408027: Packet 11 is done with the service 
+Time : 112.4408027: Packet 12 is about to be service
+Time: 114.513696778: Packet 12 is done with the service 
+Time : 114.513696778: Packet 13 is about to be service
+Time: 116.448657906: Packet 14 is arriving in the System
+Time: 117.295577498: Packet 13 is done with the service 
+Time : 117.295577498: Packet 14 is about to be service
+Time: 118.068589336: Packet 14 is done with the service 
+Time: 126.417597226: Packet 15 is arriving in the System
+Time : 126.417597226: Packet 15 is about to be service
+Time: 130.926666704: Packet 15 is done with the service 
+Time: 132.103930992: Packet 16 is arriving in the System
+Time : 132.103930992: Packet 16 is about to be service
+Time: 136.542573111: Packet 16 is done with the service 
+Time: 138.909895658: Packet 17 is arriving in the System
+Time : 138.909895658: Packet 17 is about to be service
+Time: 142.653357635: Packet 18 is arriving in the System
+Time: 143.355800483: Packet 17 is done with the service 
+Time : 143.355800483: Packet 18 is about to be service
+Time: 165.039058767: Packet 19 is arriving in the System
+Time: 166.437921655: Packet 18 is done with the service 
+Time : 166.437921655: Packet 19 is about to be service
+Time: 172.007331723: Packet 20 is arriving in the System
+Time: 173.23599802: Packet 21 is arriving in the System
+Time: 174.262249777: Packet 19 is done with the service 
+Time : 174.262249777: Packet 20 is about to be service
+Time: 177.05278291: Packet 22 is arriving in the System
+Time: 178.549020995: Packet 20 is done with the service 
+Time : 178.549020995: Packet 21 is about to be service
+Time: 180.855336281: Packet 21 is done with the service 
+Time : 180.855336281: Packet 22 is about to be service
+Time: 186.133565736: Packet 22 is done with the service 
+Time: 197.17503584: Packet 23 is arriving in the System
+Time : 197.17503584: Packet 23 is about to be service
+Time: 203.038212494: Packet 23 is done with the service 
+Time: 239.552418827: Packet 24 is arriving in the System
+Time : 239.552418827: Packet 24 is about to be service
